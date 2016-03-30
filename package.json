@@ -24,7 +24,8 @@
       "sourceType": "module"
     },
     "plugins": [
-      "meteor"
+      "meteor",
+      "fake"
     ],
     "extends": [
       "airbnb/base",
