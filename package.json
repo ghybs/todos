@@ -18,7 +18,7 @@
     "eslint-plugin-meteor": "^3.0.1",
     "eslint-plugin-react": "^4.0.0"
   },
-  "eslintConfig »: {
+  "eslintConfig": {
     "parserOptions": {
       "ecmaVersion": 6,
       "sourceType": "module"
