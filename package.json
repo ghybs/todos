@@ -7,6 +7,7 @@
     "lint": "eslint .",
     "chimp-watch": "chimp --ddp=http://localhost:3000 --watch --mocha --path=tests"
   },
+  
   "dependencies": {
     "autoprefixer": "^6.3.1",
     "faker": "^3.0.1"
@@ -17,7 +18,7 @@
     "eslint-plugin-meteor": "^3.0.1",
     "eslint-plugin-react": "^4.0.0"
   },
-  "eslintConfig": {
+  "eslintConfig »: {
     "parserOptions": {
       "ecmaVersion": 6,
       "sourceType": "module"
